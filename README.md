@@ -9,3 +9,17 @@ An integer result is called k-palindromic if:
 Return the largest integer having n digits (as a string) that is k-palindromic.
 
 Note that the integer must not have leading zeros.
+
+## Running
+
+```
+go run main.go
+```
+
+```
+Enter digits then press enter
+```
+
+```
+Enter palindromic then press enter
+```
