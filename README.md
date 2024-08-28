@@ -12,14 +12,10 @@ Note that the integer must not have leading zeros.
 
 ## Running
 
+
+* open terminal and write:
 ```
 go run main.go
 ```
-
-```
-Enter digits then press enter
-```
-
-```
-Enter palindromic then press enter
-```
+* write digits then press enter
+* write palindromic then press enter
